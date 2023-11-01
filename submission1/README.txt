@@ -15,3 +15,5 @@ Group Number:
 
 Individual Submitter:
 20301151 Marium Malek
+
+I also correctly uploaded slide.PPT and report.PDF here.
