@@ -9,7 +9,7 @@ Securing the Future of Fog based IoT Healthcare: A Framework Informed by Large-S
 
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1E8t8y-eh2lSqCoesK6vH5tyRsaKOfbI5L6zbCF6rI7Q/edit?usp=sharing
+https://docs.google.com/presentation/d/1OIlornoHxuUzT9SVG2L63I_LCueL2dZRvfEiCQ4GibA/edit?usp=sharing
 
 Group Number:
 6
