@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/bmnyfrvxhhzr#212567
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/FTnJBxRLbrU
 
 Paper title:
 Securing the Future of Fog based IoT Healthcare: A Framework Informed by Large-Scale Network Analysis for Suspicious Traffic Detection
